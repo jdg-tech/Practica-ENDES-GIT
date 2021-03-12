@@ -1,0 +1,4 @@
+/* Selecciona la primera letra de <p> */
+p::first-letter {
+  font-size: 130%;
+}
